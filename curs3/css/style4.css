@@ -1,0 +1,23 @@
+body{
+    margin: 25px auto;
+    width: 100%;
+    max-width: 1920px;
+    text-align: center;
+}
+
+div{
+    color: lightgoldenrodyellow;
+    width: 100%;
+    max-width: 340px;
+    float: left;
+    margin: 20px 25px;
+    padding: 25px;
+    /*border-color: black;
+    border-width: 2px;*/
+    border: 2px double darkgoldenrod;
+    border-radius: 25px;
+    /* background-color: lightcyan; */
+    background-image: url('../../curs2/images/download.jpeg');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
