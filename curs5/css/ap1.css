@@ -1,0 +1,7 @@
+div{
+    margin: 20px;
+    padding: 8px;
+    border: 2px purple solid;
+    width: 200px;
+    display: inline-block;
+}

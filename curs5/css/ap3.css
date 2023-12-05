@@ -1,0 +1,39 @@
+@media (max-width: 640px) {
+    /*mobil */
+    h1{
+        color: blue;
+    }
+    #tab, #laptop, #PC{
+        display: none;
+    }
+}
+
+@media (min-width: 641px) and (max-width: 767px) {
+    /* tableta */
+    h1{
+        color: aquamarine;
+    }
+    #mob, #laptop, #PC{
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+    /* laptop */
+    h1{
+        color: chocolate;
+    }
+    #mob, #tab, #PC{
+        display: none;
+    }
+}
+
+@media (min-width: 1201px) {
+    /* PC */
+    h1{
+        color: darkslategrey;
+    }
+    #mob, #tab, #laptop{
+        display: none;
+    }
+}
