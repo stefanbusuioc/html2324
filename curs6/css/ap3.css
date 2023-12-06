@@ -1,0 +1,36 @@
+h1{
+    border-bottom: 2px solid cyan;
+    text-align: center;
+}
+
+form{
+    width: 500px;
+    border: 1px darkgrey;
+    margin: auto;
+}
+
+
+label{
+    font-weight: 550;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+input{
+    padding: 20px;
+    width: 200px;
+    border-color: darkgray;
+    display: inline-block;
+}
+
+form div{
+    margin: 15px 0;
+}
+
+#check{
+    display: inline-block;
+    width: 20px;
+    padding: 0;
+}
